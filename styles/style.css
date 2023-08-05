@@ -34,6 +34,30 @@
   background-color: lightblue;
 }
 
+.navbar-brand {
+  font-family: 'Lisu Bosa', serif;
+  font-size: 30px;
+}
+
+#navbarTogglerDemo03 {
+  font-family: 'Lisu Bosa', serif;
+  font-size: 18px;
+}
+
+.display-3 {
+  font-family: 'Lisu Bosa', serif;
+  font-size: 65px;
+}
+
+#carousel-left-caption {
+  font-family: 'Poppins', sans-serif;
+  font-size: 15px;
+}
+
+#discover-and-footer button{
+  width: 80px;
+}
+
 #contents {
   padding: 2em;
 }
@@ -44,7 +68,7 @@
 }
 
 #contents-1-number {
-  color: gray;
+  color: #cdcdcd;
   opacity: 0.50;
 }
 
@@ -57,7 +81,7 @@
 }
 
 #article {
-  background-color: #eaeaea;
+  background-color: #fafafa;
   padding: 1em 2em;
 }
 
